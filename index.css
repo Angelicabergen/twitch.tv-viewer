@@ -1,0 +1,53 @@
+.container-fluid{
+    background-image: url(https://i.imgur.com/nZBJAsK.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-size: 100%;
+    overflow: auto;
+}
+.title-style{
+    color: whitesmoke;
+    font-family: "verdana", Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-size: 64px;
+    font-weight: bold;
+    display: block;
+    margin: auto;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    width: 70%;
+    opacity: .85;
+    background-color: #FF7F50;
+}
+.title-style a{
+    color: whitesmoke;
+    font-weight: bold;
+}
+.list-result-style{
+    padding: 10px;
+    display: block;
+    margin: 4px;
+    font-family: "verdana", Arial, Helvetica, sans-serif;
+    opacity: .85;
+    background-color: #FF7F50;
+    color: black;
+    font-size: 24px;
+}
+.list-result-style:hover{
+    background-color: grey;
+    color: white;
+}
+.list-group-item a{
+    color: black;
+    font-weight: bold;
+}
+.list-group-item a:hover{
+    color: white;
+    font-weight: bold;
+}
+.list-style{
+    width: 60%;
+    margin: auto;
+}
